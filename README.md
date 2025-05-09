@@ -5,7 +5,7 @@ Hi there! I'm **Shailee** 👋, and this is my corner of the coding world. Passi
 ---
 
 ## 🔥 About Me
-- 💻Data  enthusiast**[Excel, PowerBI]**
+- 💻Data  enthusiast**[Python,Excel, PowerBI,SQL,]**
 - 🏆 **Data Exploration & Visualisation** – Transforming raw data into compelling stories using dashboards and visualisations.
 - 💡 **Predictive Analytics** – Leveraging statistical learning to uncover trends and patterns.
 - 🚀 Always experimenting with new ideas and learning something new
